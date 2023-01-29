@@ -1,0 +1,20 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  align-items: center;
+  background-color: #eef4f7;
+  min-height: 100vh;
+}
+.app-heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #334155;
+  text-decoration: underline;
+  text-decoration-color: #52bbf0;
+}
+.package-list-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}

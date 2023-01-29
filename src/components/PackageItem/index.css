@@ -1,0 +1,23 @@
+.package-card {
+  background-color: #ffffff;
+  max-width: 450px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.thumbnail {
+  width: 100%;
+}
+.package-heading {
+  font-family: 'Roboto';
+  font-size: 22px;
+  font-weight: 500;
+  color: #475569;
+  padding-left: 15px;
+}
+.package-description {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+  color: #64748b;
+  padding-left: 15px;
+}
